@@ -1,7 +1,7 @@
 import "./index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.min.css";
-import Header from "./components/header";
+import Header from "./components/Header";
 import AddItemForm from "./components/AddItemForm";
 import FilterButtons from "./components/FilterButtons";
 import ListItem from "./components/ListItem";
@@ -66,3 +66,4 @@ export default function App() {
     </div>
   );
 }
+
