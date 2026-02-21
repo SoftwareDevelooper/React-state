@@ -1,34 +1,35 @@
-🛒 React Shopping List App
+# React Shopping List App
 
 A modern and minimal shopping list application built with React.
 
-🔗 Live Demo:
+## 🌍 Live Demo
+
 https://reactstate-omega.vercel.app/
 
-✨ Features
+---
 
-Add new items
+## ✨ Features
 
-Delete items
+- Add new items
+- Delete items
+- Mark items as completed
+- Filter by All / Completed / Incomplete
+- Clear entire list
 
-Mark items as completed
+---
 
-Filter by All / Completed / Incomplete
+## 🛠 Tech Stack
 
-Clear entire list
+- React (Functional Components)
+- useState Hook
+- Bootstrap 5
+- Bootstrap Icons
 
+---
 
-🛠 Tech Stack
+## 📁 Project Structure
 
-React (Functional Components)
-
-useState Hook
-
-Bootstrap 5
-
-Bootstrap Icons
-
-📁 Project Structure
+```
 src
  ├── App.jsx
  ├── main.jsx
@@ -41,16 +42,37 @@ src
      ├── Item.jsx
      └── Header.jsx
 
-🎯 Purpose
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🎯 Purpose
 
 This project was built to practice:
 
-Component-based architecture
-
-State management
-
-Conditional rendering
-
-List manipulation in React
-
-
+- Component-based architecture
+- State management
+- Conditional rendering
+- List manipulation in React
